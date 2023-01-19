@@ -6,12 +6,13 @@ I am always eager to learn new technologies, so if you want to chat with me, ple
 
 
 <h3>My Values</h3>
-• Optimism
-• Creativity
-• Beginner's mindset and Curiosity
-• Honesty and accountability
 
-<h3></h3>
+* Optimism
+* Creativity
+* Beginner's mindset and Curiosity
+* Honesty and accountability
+
+
 
 <!--
  <h3>How I work</h3>
