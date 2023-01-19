@@ -2,7 +2,7 @@
 
 I'm a Senior from the University of Santo Tomas looking to pursue a career in Information Systems focusing on Data Analytics and Web Design. I have previously worked as a Virtual Assistant and Social Media Manager but I am looking for more opportunities to hone my soft and technical skills.
 
-I am always eager to learn new technologies, so if you want to chat with me, please feel free to reach out on my [Email](mailto:anikaanjae@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 🤍
+I am always eager to learn new technologies, so if you want to chat with me, please feel free to reach out on my [Email](mailto:anikaanjae@gmail.com) 🤍
 
 
 <h3>My Values</h3>
