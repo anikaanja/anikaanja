@@ -1,8 +1,8 @@
-<h1>Hello, I'm Anika 👩🏻‍💻👋</h1>
+<h1>Hello, I'm Anika 👩🏻‍💻👋</h1> 
 
-I'm a Senior from the University of Santo Tomas looking to pursue a career in Information Systems focusing on Data Analytics and Web Design. I have previously worked as a Virtual Assistant and Social Media Manager but I am looking for more opportunities to hone my soft and technical skills.
+I'm a Senior from the University of Santo Tomas dedicated to pursue a career in Information Systems focusing on Data Analytics or Web Design. I have previously worked as a Virtual Assistant and Social Media Manager but I am looking for more opportunities to hone my soft and technical skills.
 
-I am always eager to learn new technologies, so if you want to chat with me, please feel free to reach out on my [Email](mailto:anikaanjae@gmail.com) 🤍
+I am always eager to learn something new. If you want to share any information or just chat with me, please feel free to reach out on my [Email](mailto:anikaanjae@gmail.com) 🤍
 
 
 <h3>My Values</h3>
