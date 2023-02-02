@@ -1,26 +1,26 @@
-<h1>Hello, I'm Anika 👩🏻‍💻👋</h1> 
+<h1>Hello, I'm Anika 👋🏻</h1> 
 
-I'm a Senior from the University of Santo Tomas dedicated to pursue a career in Information Systems focusing on Data Analytics or Web Design. I have previously worked as a Virtual Assistant and Social Media Manager but I am looking for more opportunities to hone my soft and technical skills.
+I'm a Senior from the University of Santo Tomas dedicated to pursue a career in Information Systems focusing on Data Analytics or Web Design. 
 
-I am always eager to learn something new. If you want to share any information or just chat with me, please feel free to reach out on my [Email](mailto:anikaanjae@gmail.com) 🤍
+I am currently a Front-End Developer Intern at Xurpas, Inc and I have also previously worked as a Virtual Assistant and Social Media Manager. 
+
+I am always eager to learn something new, feel free to reach out on my  and I'd be glad to have a chat about anything related to my field of work!!
+
+Currently learning TypeScript and Python 👩🏻‍💻
 
 
-<h3>My Values</h3>
+<h2>How to reach me 🤍</h2>
+Let's talk on my [Email](mailto:anikaanjae@gmail.com) 
+or let's connect on [LinkedIn](https://www.linkedin.com/in/anikaanja/)
+
+
+<!--
+ <h3>How I work</h3>
 
 * Optimism
 * Creativity
 * Beginner's mindset and Curiosity
 * Honesty and accountability
-
-<h3>I am currently learning..</h3>
-
-* TypeScript
-* Python
-* SQL 
-
-<!--
- <h3>How I work</h3>
-
 
 <h3>More about me:</h3>
 
