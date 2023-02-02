@@ -12,7 +12,11 @@ I am always eager to learn something new. If you want to share any information o
 * Beginner's mindset and Curiosity
 * Honesty and accountability
 
+<h3>I am currently learning..</h3>
 
+* TypeScript
+* Python
+* SQL 
 
 <!--
  <h3>How I work</h3>
